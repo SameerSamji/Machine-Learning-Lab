@@ -1,2 +1,3 @@
 # ignore all Jupyter Checkpoints
 .ipynb_checkpoints
+.gitignore
